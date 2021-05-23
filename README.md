@@ -2,7 +2,7 @@
 
 ## What's new?
 
-`<p><b>Root/Xposed Terminal</b>
+<p><b>Root/Xposed Terminal</b>
 <br/>Type "root" or "xposed" command in Terminal to enable or disable Root/Xposed</p>
 <p><b>Built-in BusyBox</b>
 <br/>No need to install BusyBox via third-party</p>
@@ -12,7 +12,7 @@
 <br/>Aurora Store's is an open source app that provides an alternative to the Google Play Store, allowing you to download apps available on Google Play Store without having to sign in to an account.</p>
 <p><b>Pre-installed ES Files</b>
 <br/>To browse and edit files in virtual machine</p>
-<p><b>Chinese keyboard has been removed</b><br>Replace with AOSP latin keyboard</p><br/>`
+<p><b>Chinese keyboard has been removed</b><br>Replace with AOSP latin keyboard</p><br/>
 
 ## Download
 
@@ -32,14 +32,14 @@
 
 ## What's new?
 
-`
 <p><b>Boot animation</b>
 <br/>Display the boot animation screen when starting the virtual machine boot </p>
 <p><b>Pre-installed Aurora Store</b>
 <br/>Aurora Store's is an open source app that provides an alternative to the Google Play Store, allowing you to download apps available on Google Play Store without having to sign in to an account.</p>
 <p><b>Pre-installed ES Files</b>
 <br/>To browse and edit files in virtual machine</p>
-<p><b>Chinese keyboard has been removed</b><br>Replace with AOSP latin keyboard</p><br/>`
+<p><b>Chinese keyboard has been removed</b>
+<br>Replace with AOSP latin keyboard</p><br/>
 
 ## Download
 
