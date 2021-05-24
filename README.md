@@ -60,7 +60,7 @@
 
 # Installation guide
 
-<b> Step 1: </b> Open the VMOS Pro app. <br>
+<b> Step 1: </b> When you download VMOS Pro in the first time, open the VMOS Pro app.<br>
  <center> <img src = "https://vmos.wap.sh/images/vmos-pro-install-rom01.png" style = "border: 1px solid black; width: 60%;" /> </center  > <br>
  <b> Step 2: </b> Press Confirm to agree to the terms and privacy of the app. <br>
  <center> <img src = "https://vmos.wap.sh/images/vmos-pro-install-rom02.png" style = "border: 1px solid black; width: 60%;" /> </center  > <br>
