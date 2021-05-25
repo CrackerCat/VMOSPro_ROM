@@ -1,6 +1,6 @@
 <div><img src="https://vmos.wap.sh/images/VMOSProGEEK.png" style="width:100%"/></div>
 
-# GEEK ROM
+# GEEK ROM (Root and Xposed)
 
 ## What's new?
 
