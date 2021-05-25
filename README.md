@@ -18,7 +18,7 @@
 
 ## Download
 
-There are two type: Gapps (with Google Services) and vanilla (no Google Services)
+There are two build types: Gapps (with Google Services) and vanilla (no Google Services)
 
 [Android 7.1.2 64-bit GEEK (gapps)](http://link1s.com/geQV5)
 
@@ -47,7 +47,7 @@ There are two type: Gapps (with Google Services) and vanilla (no Google Services
 
 ## Download
 
-There are two type: Gapps (with Google Services) and vanilla (no Google Services)
+There are two build types: Gapps (with Google Services) and vanilla (no Google Services)
 
 [Android 7.1.2 64-bit LITE (gapps)](http://link1s.com/4TqXgRf)
 
