@@ -18,6 +18,8 @@
 
 ## Download
 
+There are two type: Gapps (with Google Services) and vanilla (no Google Services)
+
 [Android 7.1.2 64-bit GEEK (gapps)](http://link1s.com/geQV5)
 
 [Android 7.1.2 64-bit GEEK (vanilla)](http://link1s.com/VuBG)
@@ -44,6 +46,8 @@
 <br>Replace with AOSP latin keyboard</p><br/>
 
 ## Download
+
+There are two type: Gapps (with Google Services) and vanilla (no Google Services)
 
 [Android 7.1.2 64-bit LITE (gapps)](http://link1s.com/4TqXgRf)
 
