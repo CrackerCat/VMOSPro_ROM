@@ -4,8 +4,8 @@
 
 ## What's new?
 
-<p><b>Root/Xposed Terminal</b>
-<br/>Type "tool" command in Terminal to enable or disable Root/Xposed</p>
+<p><b>Terminal Tool v1.9</b>
+<br/>Type <code>tool</code> command in Terminal to install or uninstall Root/Xposed and other features</p>
 <p><b>Built-in BusyBox</b>
 <br/>No need to install BusyBox via third-party</p>
 <p><b>Boot animation</b>
